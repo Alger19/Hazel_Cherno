@@ -4,11 +4,13 @@
 
 
 #include <stdio.h>
-
+#include "Hazel/Log.h"
 #include "Hazel/Application.h"
 // #include "Hazel/Core.h"
 
 
-// ------Entry Point-----
+// ------Entry Point----- 
 #include "Hazel/EntryPoint.h"
 // -----------------------
+
+
